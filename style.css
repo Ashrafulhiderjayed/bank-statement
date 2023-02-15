@@ -1,0 +1,8 @@
+body{
+    /* color: azure; */
+    /* background-image: linear-gradient(to bottom right, #FF3E9D, #0E1F40); */
+    /* background-image: linear-gradient(to bottom right, #1D4350, #A43931); */
+    background-image: url('./images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
